@@ -1,0 +1,42 @@
+# Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+env/
+venv/
+*.env
+
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE/editor configs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Cache and tests
+.cache/
+.pytest_cache/
+
+# Logs and outputs
+logs/
+*.log
+runs/
+outputs/
+
+# Large model files / weights
+*.ckpt
+*.pth
+*.pt
+*.safetensors
+*.bin
+*.h5
