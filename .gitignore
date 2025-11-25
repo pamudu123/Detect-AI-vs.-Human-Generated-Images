@@ -45,6 +45,7 @@ outputs/
 train
 test_data_v2
 results/
+models/
 
 test.csv
 train.csv
