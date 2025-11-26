@@ -41,6 +41,8 @@ outputs/
 *.bin
 *.h5
 
+# all submission files
+*.csv 
 
 train
 test_data_v2
@@ -49,3 +51,5 @@ models/
 
 test.csv
 train.csv
+
+test.ipynb
